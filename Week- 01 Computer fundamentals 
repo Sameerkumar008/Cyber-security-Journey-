@@ -1,0 +1,51 @@
+# 🔐 Cyber Security Journey
+
+## Week 1 — Computer Fundamentals
+
+Building a strong foundation in computer concepts before progressing into networking, Linux, cybersecurity fundamentals, and advanced security concepts.
+
+---
+
+## 📚 Topics Covered
+
+### 1. Basics of Computers
+
+- What is a Computer?
+- Data vs Information
+- Hardware vs Software
+- Input → Processing → Storage → Output
+- Types of Computers
+- Hardware + Software Relationship
+- Operating Systems
+- Server and Its Purpose
+
+---
+
+### 2. Computer Hardware & Components
+
+- Computer Components
+- CPU — Central Processing Unit
+- CPU Components
+- ALU — Arithmetic Logic Unit
+- CU — Control Unit
+- Registers
+- RAM — Random Access Memory
+- ROM — Read-Only Memory
+- Storage Devices
+- HDD vs SSD
+- Motherboard
+- PSU — Power Supply Unit
+- Ports & Peripherals
+
+---
+
+## 🧠 Computer Processing Flow
+
+```text
+Input
+  ↓
+Processing
+  ↓
+Memory / Storage
+  ↓
+Output
