@@ -1,0 +1,105 @@
+# 🔐 Cyber Security Journey
+
+## Week 2 — Computer Fundamentals
+
+This week, I continued building my computer fundamentals by learning about Operating Systems and their role in managing computer resources and supporting cybersecurity.
+
+---
+
+## 🖥️ Operating Systems
+
+### What is an Operating System?
+
+- Definition of an Operating System
+- Purpose of an Operating System
+- Why We Need an OS
+- How an OS Works
+- Operating System Components
+
+### Kernel
+
+- What is a Kernel?
+- Role of the Kernel
+- Kernel and Hardware Communication
+- Kernel and Applications
+
+### User Interaction
+
+- GUI — Graphical User Interface
+- CLI — Command Line Interface
+- GUI vs CLI
+
+### Programs & Processes
+
+- What is a Program?
+- What is a Process?
+- Programs vs Processes
+- Process Management
+- Process States
+- Running Processes
+
+### Memory Management
+
+- What is Memory Management?
+- RAM Management
+- Process Memory
+- Memory Allocation
+- Why Memory Management Matters
+
+### File & Storage Management
+
+- File Management
+- File Systems
+- Storage Management
+- Files and Directories
+- Data Organization
+
+### Device Management
+
+- What is Device Management?
+- Hardware Devices
+- Device Drivers
+- Communication Between OS and Devices
+
+### User Accounts & Permissions
+
+- User Accounts
+- User Roles
+- Authentication
+- Permissions
+- Access Control
+- Why Permissions Matter
+
+---
+
+## 🔐 OS & Cybersecurity
+
+Understanding Operating Systems is essential for cybersecurity because security professionals need to understand:
+
+- How processes run
+- How memory is managed
+- How files are stored and accessed
+- How users and permissions work
+- How applications interact with the OS
+- How the OS communicates with hardware
+- Where security vulnerabilities can occur
+- How access control helps protect systems
+
+> Strong Operating System fundamentals → Stronger cybersecurity foundation.
+
+---
+
+## 🧠 Key Concepts
+
+### Basic OS Workflow
+
+```text
+User
+ ↓
+Application
+ ↓
+Operating System
+ ↓
+Kernel
+ ↓
+Hardware
