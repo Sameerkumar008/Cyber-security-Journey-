@@ -1,0 +1,236 @@
+🔐 Cyber Security Journey
+
+Week 03 — System Resources, File Systems & Access Control
+
+This week focused on understanding how an operating system manages system resources, files, directories, users, groups, permissions, and access control.
+
+These concepts are important cybersecurity foundations because they help explain how systems control access to resources and how incorrect permissions or excessive privileges can create security risks.
+
+---
+
+🖥️ System Fundamentals
+
+- CPU
+- RAM
+- Storage Hierarchy
+- Kernel
+- User Space
+- System Resources
+
+Basic System Relationship
+
+User
+ ↓
+User Space
+ ↓
+Applications
+ ↓
+Kernel
+ ↓
+CPU / RAM / Storage / Devices
+
+---
+
+📂 File Systems & File Management
+
+- File Systems
+- NTFS
+- ext4
+- Files vs Directories
+- File Organization
+- File Metadata
+- File Paths
+
+File System Examples
+
+NTFS
+
+- Commonly used by Windows systems.
+- Supports permissions, metadata, and other filesystem features.
+
+ext4
+
+- A commonly used Linux filesystem.
+- Supports file permissions, ownership, and filesystem management.
+
+---
+
+🔐 File Permissions
+
+- File Permissions
+- Read / Write / Execute
+- File vs Directory Permissions
+- Permission-Based Access Control
+- Incorrect Permissions & Security Risks
+- Least Privilege
+
+Basic Permission Model
+
+Read    → View / read data
+Write   → Modify data
+Execute → Run a file or access a directory appropriately
+
+Security Connection
+
+Incorrect permissions can allow users or processes to access resources they should not be able to access.
+
+The Principle of Least Privilege means giving users and processes only the permissions they actually need.
+
+---
+
+👤 Users & Groups
+
+- User Accounts
+- Standard User vs Administrator / Root
+- Groups
+- User / Group Membership
+- Access Control
+
+Basic Relationship
+
+User
+ ↓
+Group Membership
+ ↓
+Permissions
+ ↓
+Resource Access
+
+Groups make it easier to manage permissions for multiple users.
+
+---
+
+🔑 Authentication vs Authorization
+
+Authentication
+
+Authentication verifies who the user is.
+
+Example:
+
+User → Login → Identity Verification → Authenticated
+
+Authorization
+
+Authorization determines what an authenticated user is allowed to access or perform.
+
+Example:
+
+Authenticated User
+        ↓
+Authorization Check
+        ↓
+Allowed / Denied
+        ↓
+Resource
+
+Key Difference
+
+Authentication → Who are you?
+Authorization  → What are you allowed to do?
+
+---
+
+🛡️ Access Control
+
+Access Decision
+
+User
+ ↓
+Identity
+ ↓
+Group / Role
+ ↓
+Permission
+ ↓
+Access Decision
+ ↓
+Resource
+
+Access control helps systems determine whether a user or process should be allowed to access a particular resource.
+
+---
+
+⚠️ Access-Control Security Risks
+
+- Unauthorized Access
+- Excessive Privilege
+- Incorrect Permissions
+- Privilege Escalation
+- Weak Access Control
+
+Privilege
+
+A privilege is a permission or capability that allows a user or process to perform a particular action.
+
+Privilege Escalation
+
+Privilege escalation occurs when an account or process gains higher privileges than it should normally have.
+
+From a cybersecurity perspective, controlling privileges and permissions is important for reducing unauthorized access and limiting the impact of security incidents.
+
+---
+
+🔐 Cybersecurity Connection
+
+The concepts learned this week connect directly to:
+
+- Access Control
+- Identity & Access Management (IAM)
+- Linux Security
+- Windows Security
+- Privilege Management
+- System Security
+- File Security
+- Least Privilege
+- Privilege Escalation Prevention
+
+Understanding these fundamentals provides a strong foundation for learning Linux security, Windows security, Active Directory, IAM, cloud security, and penetration testing later in the roadmap.
+
+---
+
+🎯 Week 03 Goals
+
+- Understand how computers manage system resources.
+- Understand the role of the kernel and user space.
+- Understand file systems and file organization.
+- Understand files, directories, paths, and metadata.
+- Understand file permissions and access control.
+- Understand users, groups, and privileges.
+- Clearly distinguish authentication from authorization.
+- Understand basic privilege escalation concepts.
+- Connect computer fundamentals with cybersecurity.
+
+---
+
+📈 Progress
+
+Week 01 — Computer Fundamentals        ✅
+Week 02 — Operating Systems             ✅
+Week 03 — System, Files & Access Control ✅
+
+Next
+
+Week 04 — Networking Fundamentals 🌐
+
+---
+
+🚀 Learning Approach
+
+Learning cybersecurity from the fundamentals upward:
+
+Computer Fundamentals
+        ↓
+Operating Systems
+        ↓
+Files & Permissions
+        ↓
+Users & Access Control
+        ↓
+Networking
+        ↓
+Linux & Security
+        ↓
+Cybersecurity
+
+Building the foundation step by step. 🔐💻
